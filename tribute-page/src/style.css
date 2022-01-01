@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
